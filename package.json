@@ -62,7 +62,7 @@
     "tabbable": "^4.0.0",
     "tslib": "^1.11.1",
     "urijs": "^1.19.2",
-    "xmldom": "^0.3.0"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "@types/debounce": "^3.0.0",
